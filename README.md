@@ -17,6 +17,3 @@ This repository serves as the centralized storage for all graphical components, 
 
 ## ⚡ Usage
 To sync assets with the main project, use the direct CDN links or clone this sub-module into your local `/assets` directory.
-
----
-**STATUS: ENCRYPTED // VERSION: 1.0.4**
